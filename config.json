@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatordender",
+        "uuid": 9268137,
+        "checksum": "5wl4gg"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
